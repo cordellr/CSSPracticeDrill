@@ -17,10 +17,41 @@ h2, p, .readme-wrapper {
     text-align: center;
 }
 
-.box {
+.image1, h2 {
     display: inline-block;
+}
+
+.image1 {
+    width: 5em;
+    height: 5em;
+    background-color: black;
+}
+
+.box {
+    display: block;
+    width: 20%;
     margin: 2em;
     padding: 2em;
     border: solid rgb(55, 192, 247);
     border-radius: 1em;
+}
+
+#box1{
+    background-color: aliceblue;
+}
+
+#box2{
+    background-color: rgb(240, 255, 252);
+}
+
+#box3{
+    background-color: rgb(254, 255, 240);
+}
+
+#box4{
+    background-color: rgb(249, 240, 255);
+}
+
+h2 {
+    display: inline;
 }
