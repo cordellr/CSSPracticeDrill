@@ -1,0 +1,26 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(233, 233, 233);
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover {
+    color: black;
+    font-weight: bold;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    margin: 2em;
+    padding: 2em;
+    border: solid rgb(55, 192, 247);
+    border-radius: 1em;
+}
