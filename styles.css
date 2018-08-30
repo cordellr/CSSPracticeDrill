@@ -55,3 +55,51 @@ h2, p, .readme-wrapper {
 h2 {
     display: inline;
 }
+
+h1 {
+    color: black;
+}
+
+.group1 {
+    color: rgb(61, 96, 250);
+}
+
+.group2 {
+    color: purple;
+}
+
+#show1{
+    color: blue;
+}
+
+#show2{
+    color: rgb(0, 81, 255);
+}
+
+#show3{
+    color: rgb(0, 132, 255);
+}
+
+#show4{
+    color: rgb(0, 162, 255);
+}
+
+#show5{
+    color: rgb(0, 217, 255);
+}
+
+.lists {
+    border: 2px solid black;
+}
+
+#list1 {
+    color: blueviolet;
+}
+
+#list2{
+    color: rgb(17, 158, 168);
+}
+
+#list3 {
+    color: rgb(243, 201, 111);
+}
